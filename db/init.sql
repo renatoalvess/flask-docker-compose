@@ -12,6 +12,6 @@ CREATE TABLE employee_data (
 INSERT INTO employee_data
   (Employee_Name, Title, cpf)
 VALUES
-  ('Renato Alves', 'Developer', "222.333.444-99");
-  ('Amit Khanna', 'Manager', "111.222.333-99"),
-  ('Anjali Gupta', 'Engineer', "333.333.444-99");
+  ('Renato Alves', 'Developer', "22233344499");
+  ('Amit Khanna', 'Manager', "11122233399"),
+  ('Anjali Gupta', 'Engineer', "33333344499");
