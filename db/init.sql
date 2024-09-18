@@ -10,7 +10,7 @@ CREATE TABLE employee_data (
 
 
 INSERT INTO employee_data
-  (Employee_Name, Title, cpf)
+  (Employee_Name, position, cpf)
 VALUES
   ('Renato Alves', 'Developer', "22233344499"),
   ('Amit Khanna', 'Manager', "11122233399"),
